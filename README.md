@@ -33,4 +33,4 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/FoodApp.git
+   git clone https://github.com/NasirAkra/FoodApp.git
